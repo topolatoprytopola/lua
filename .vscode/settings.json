@@ -2,5 +2,10 @@
     "Lua.diagnostics.globals": [
         "love",
         "boardXMax"
-    ]
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false
 }
